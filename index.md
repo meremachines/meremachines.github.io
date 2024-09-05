@@ -2,14 +2,12 @@
 layout: default
 ---
 
-# Introduction
-## Onboarding
-1. Watch [this video on the Ten Principles](https://www.youtube.com/watch?v=9kDI2lCOEpo).
+# Start here
+[Onboarding](./pages/onboarding.md)
 
-# Information
+## General Information
 * General Rules
 * Roles
-
-# Finance
 * What everything costs
-* What we provide
+* [Onboarding](./pages/camp-features.md), or What we provide
+
