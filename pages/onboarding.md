@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Welcome { site.title } !
+# Welcome to { site.title } !
 
-1. Watch [this video on the Ten Principles](https://www.youtube.com/watch?v=9kDI2lCOEpo).
-2. [Camp Features](./pages/camp-features.md) - what we provide
-3. [General Rules]()
-3. [Roles]()
+If you're here, you're at least curious about what it's like to camp with us.
+
+Here's a little bit about us:
+* We're a camp that's passionate about creating gadgetry;
+* We don't believe in sparkle ponies. On playa, build and strike are mandatory;
+* Everyone needs to know and follow [the Ten Principles](https://www.youtube.com/watch?v=9kDI2lCOEpo);
+
+Sound good? Good. Read on.
+
+* [Camp Features](./pages/camp-features.md) are what we provide for each other;
+* [Black Rock City Contributions]() are what we provide for the playa;
+* [Burning Man Organization Volunteering Efforts]() are what we provide for the org;
+* [General Rules]() are our non-negotiable bylaws;
+* [Roles]() outline the work you can expect to contribute should you choose to take on one or more positions in the camp heirarchy;
 
 [back](./../)
