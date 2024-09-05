@@ -3,14 +3,7 @@ layout: default
 ---
 
 # Start here
-[Onboarding](./pages/onboarding.md)
+[Onboarding](./pages/onboarding)
 
-# General Reference
-[Important Dates]()
-
-[Camp Roster]()
-
-[Camp Features](./pages/camp-features.md)
-
-## Advanced Topics
-[Finances]()
+# Reference
+[All pages, Alphabetical](./pages/all-pages)
