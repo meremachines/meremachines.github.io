@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 # Welcome!
 
 If you're here, we'd love to have you camp with us!
