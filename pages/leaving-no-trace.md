@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+# Leaving No Trace
+_Our community respects the environment. We are committed to leaving no physical trace of our
+activities wherever we gather. We clean up after ourselves and endeavor, whenever possible,
+to leave such places in a better state than when we found them._
+
+[back](./../)

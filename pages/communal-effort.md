@@ -3,19 +3,38 @@ layout: default
 ---
 
 # Communal Effort
+_Our community values creative cooperation and collaboration. We strive to produce, promote and protect
+social networks, public spaces, works of art, and methods of communication that support such interaction._
 
-## Requirements
-### Before the event
+
+We all work together to make camp happen.  Here's what's required:
+
+## Before the event
 * Paying camp dues
-* Attending mandatory meetings
+* Attending planning meetings
+* Attending build trainings
 
-### On playa
-* Participate in [build and strike](build-and-strike).
-* Fulfill at least one [role](./roles).
-* Know and follow the Ten Principles.
+## Build and strike
+* Shower
+* Kitchen
+* Shaded Bar
+* Shaded Camping Area
 
-### After the event
-* TBD
+## After the event
+* Clean the equipment
+* Record the state of the equipment
 
-If that's all well and good, it's time to learn [who you'll be camping with](./roster).
+## Important Dates
 
+
+| Date        | Description          |
+|:-------------|:------------------|
+| |Build Training|
+| |Planning Meeting|
+| |Arrival on playa|
+| |Build Day|
+| |Camp Check-in|
+| |Strike Day|
+|Labor Day|Exodus from playa|
+
+[back](./../)
