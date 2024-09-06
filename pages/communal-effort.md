@@ -17,10 +17,11 @@ We **all** work together to make camp happen.  Here's what's required of everyon
 ## Build and strike
 * [Shower]()
 * [Kitchen]()
-* [Shaded Bar]()
+* [Shaded Common Area]()
 * [Shaded Camping Area]()
 
 ## After the event
+* Cleaning up moop
 * Clean and store the equipment
 
 ## Important Dates

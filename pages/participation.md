@@ -16,12 +16,16 @@ We have several predefined roles to help people get started.
 
 | Role        | Description          |
 |:-------------|:------------------|
-| Chef | Cook camp meals|
+| Chef | Plan, shop for, and cook camp meals. Manage food storage|
 | Barkeep | Plan recipes, manage liquor and mixer inventory, tend bar on playa|
 | Tinkerer | Build and maintain an interactive art piece |
 | MacGyver | Repair and test equipment |
 | Bean Counter | Collect dues, execute purchasing requests, manage accounts |
 | Scribe | Record the state of the equipment, file repair and replacement requests |
+| Medic | First aid and triage |
+| Waterkeeper | Manage fresh and grey water |
+| Iceback | Manage ice |
+| Power | Manage generators and gas |
 
 
 [back](./../)

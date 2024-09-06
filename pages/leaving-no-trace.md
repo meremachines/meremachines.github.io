@@ -10,7 +10,7 @@ to leave such places in a better state than when we found them._
 A lot of this is common sense, but common sense is not so common.
 
 This includes basic things like:
-* Putting things back in their home after you've used them. I can't count the number of times tasks have taken longer than expected because we've had to look for equipment someone else has used and moved.
+* Putting tools back in their home immediately after you've used them
 
 * Cleaning camp dishes, pots, and pans after use, and storing them away from the elements
 

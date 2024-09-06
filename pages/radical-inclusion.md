@@ -8,7 +8,7 @@ _Anyone may be a part of Burning Man. We welcome and respect the stranger.
 
 ## Roster
 
-| Name        | Years Attended          |
+| Name        | [Roles](./participation)          |
 |:-------------|:------------------|
 | Johnathan Redmann | |
 | Chris "Drumroll" Roberts| |
