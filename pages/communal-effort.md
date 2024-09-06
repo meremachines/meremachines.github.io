@@ -15,10 +15,10 @@ We **all** work together to make camp happen.  Here's what's required of everyon
 * Attending build trainings; knowing how to build all common structures
 
 ## Build and strike
-* [Shower]()
-* [Kitchen]()
-* [Shaded Common Area]()
-* [Shaded Camping Area]()
+* [Shower](./shower)
+* [Kitchen](./kitchen)
+* [Shaded Common Area](./shaded-common-area)
+* [Shaded Camping Area](./shaded-camping-area)
 
 ## After the event
 * Cleaning up moop
