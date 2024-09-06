@@ -34,5 +34,6 @@ We **all** work together to make camp happen.  Here's what's required of everyon
 | |Camp Check-in|
 | |Strike Day|
 |Labor Day|Exodus from playa|
+||Clean and store equipment|
 
 [back](./../)

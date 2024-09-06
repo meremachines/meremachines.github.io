@@ -17,7 +17,7 @@ We have several predefined roles to help people get started.
 | Role        | Description          |
 |:-------------|:------------------|
 | Chef | Cook camp meals|
-| Barkeep | Order liquor, plan recipes, tend bar on playa|
+| Barkeep | Plan recipes, manage liquor and mixer inventory, tend bar on playa|
 | Tinkerer | Build and maintain an interactive art piece |
 | MacGyver | Repair and test equipment |
 | Bean Counter | Collect dues, execute purchasing requests, manage accounts |
