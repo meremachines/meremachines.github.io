@@ -10,15 +10,18 @@ world real through actions that open the heart._
 
 We don't believe in sparkle ponies; we believe everyone has something to offer.
 
-We have several predefined categories to help people get started.
+We have several predefined roles to help people get started.
 
-## Roles
+## Specialized Roles
 
 | Role        | Description          |
 |:-------------|:------------------|
-| Chef | |
-| Barkeep| |
-| Tinkerer| |
-| Bean Counter| Accounting|
+| Chef | Cook camp meals|
+| Barkeep | Order liquor, plan recipes, tend bar on playa|
+| Tinkerer | Build and maintain an interactive art piece |
+| MacGyver | Repair and test equipment |
+| Bean Counter | Collect dues, execute purchasing requests, manage accounts |
+| Scribe | Record the state of the equipment, file repair and replacement requests |
+
 
 [back](./../)

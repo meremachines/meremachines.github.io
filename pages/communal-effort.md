@@ -7,25 +7,23 @@ _Our community values creative cooperation and collaboration. We strive to produ
 social networks, public spaces, works of art, and methods of communication that support such interaction._
 
 
-We all work together to make camp happen.  Here's what's required:
+We **all** work together to make camp happen.  Here's what's required of everyone at camp:
 
 ## Before the event
 * Paying camp dues
 * Attending planning meetings
-* Attending build trainings
+* Attending build trainings; knowing how to build all common structures
 
 ## Build and strike
-* Shower
-* Kitchen
-* Shaded Bar
-* Shaded Camping Area
+* [Shower]()
+* [Kitchen]()
+* [Shaded Bar]()
+* [Shaded Camping Area]()
 
 ## After the event
-* Clean the equipment
-* Record the state of the equipment
+* Clean and store the equipment
 
 ## Important Dates
-
 
 | Date        | Description          |
 |:-------------|:------------------|
