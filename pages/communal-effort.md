@@ -7,12 +7,12 @@ _Our community values creative cooperation and collaboration. We strive to produ
 social networks, public spaces, works of art, and methods of communication that support such interaction._
 
 
-We **all** work together to make camp happen.  Here's what's required of everyone at camp:
+We **all** work together to make camp happen.  Here's what's required of everyone who camps with us:
 
 ## Before the event
 * Paying camp dues
 * Attending planning meetings
-* Attending build trainings; knowing how to build all common structures
+* Attending build trainings until you know how to build all common structures
 
 ## Build and strike
 * [Shower](./shower)

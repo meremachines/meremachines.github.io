@@ -12,19 +12,28 @@ So how do we afford all of this?
 
 ## Finances
 
-### Initial Equipment Costs
+### Dues, 2025
+
+$X * Y people = $Z per year
+
+### One-off costs, 2025
 
 | Cost        | Item        |
 |:-------------|:------------------|
 |  | |
 | | |
 
-### Ongoing Costs
+### Recurring costs, 2025
 
 | Cost        | Item        |
 |:-------------|:------------------|
 |  |Shipping Container Storage|
 | |Shipping Container to Playa|
 | |Shipping Container from Playa|
+
+
+### Summary
+
+Existing Balance + Dues - One-off Costs - Recurring Costs = Remainder
 
 [back](./../)

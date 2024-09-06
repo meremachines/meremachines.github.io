@@ -39,3 +39,19 @@ Let's walk you through what that means for us.
 
 [Consent](./pages/consent)
 
+<hr>
+
+# Open Questions
+- Are we a new camp or taking over an existing camp?
+
+Things to consider:
+
+>All new theme camps that have never been placed in Black Rock City before are capped at 100 x 100 ft or 10,000 square feet.
+>If your camp has been placed as a theme camp before, the maximum size is 400 x 400 ft or 160,000 square feet
+
+>Placement is ending the village designation as a placed camp category between 2024-25. Groups of people/camps can still call themselves a “village” in name, but will be treated as a single theme camp.
+
+>If multiple camps are interested in sharing resources with other placed camps, you can form a hub instead. Please review our [HUBS](https://burningman.org/event/participate/camps/placement-process/hubs/) (Humans Uniting for Better Sustainability) FAQ page for more information.
+
+
+

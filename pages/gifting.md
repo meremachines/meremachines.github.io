@@ -13,10 +13,15 @@ We are excited to provide the denizens of our fine land with:
 * Food
 * Drinks
 
-
 ## For the Burning Man Organization
 
-* Arctica shifts
+TBD, but could include shifts with:
+* Arctica
+* Lamplighters
+* Rangers
+* Gate
+* BXB
+* etc.
 
 
 [back](./../)
